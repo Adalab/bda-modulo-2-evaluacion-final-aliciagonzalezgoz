@@ -30,21 +30,6 @@ Colección de ejercicios de SQL sobre la base de datos **Sakila**, una base de d
 
 3. Abre el archivo `Examen_Modulo_2_Alicia_Gonzalez.sql` en tu cliente MySQL (MySQL Workbench, DBeaver, etc.) y ejecuta las queries.
 
-## Contenido del ejercicio
-
-El archivo SQL contiene 24 ejercicios que cubren los siguientes conceptos:
-
-| Concepto | Ejercicios |
-|---|---|
-| Queries básicas y DISTINCT | 1, 2, 5 |
-| Filtros con WHERE y LIKE | 3, 4, 6, 7, 8 |
-| Funciones agregadas (COUNT, AVG) | 9, 12 |
-| GROUP BY y HAVING | 9, 12, 18, 20, 21 |
-| INNER JOIN | 11, 13, 17, 20, 24 |
-| LEFT JOIN | 10, 15 |
-| Subconsultas | 17, 22, 23, 24 |
-| Subconsultas con NOT IN | 15, 23 |
-
 ## Estructura del repositorio
 
 ```
